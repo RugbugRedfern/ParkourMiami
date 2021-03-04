@@ -1,7 +1,12 @@
 {
-	"author" : "Rugbug Redfern",
 	"name" : "Parkour Miami",
+	"author" : "Rugbug Redfern",
 	"iconURL" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/icon.png?raw=true",
-	"mapURL" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/map.zip?raw=true",
-	"version" : "1"
+	"version" : "1",
+	"maps" : [
+		{ "win" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/win.zip?raw=true" },
+		{ "osx" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/osx.zip?raw=true" },
+		{ "lin" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/lin.zip?raw=true" },
+		{ "web" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/web.zip?raw=true" }
+	]
 }
