@@ -3,7 +3,7 @@
 	"author" : "Rugbug Redfern",
 	"iconURL" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/icon.png?raw=true",
 	"version" : "1",
-	"map" : [
+	"mapDownloads" : [
 		{ "platform" : "win", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/win.zip?raw=true" },
 		{ "platform" : "osx", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/osx.zip?raw=true" },
 		{ "platform" : "lin", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/lin.zip?raw=true" },
