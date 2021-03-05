@@ -4,9 +4,9 @@
 	"iconURL" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/icon.png?raw=true",
 	"version" : "1",
 	"map" : [
-		{ "win" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/win.zip?raw=true" },
-		{ "osx" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/osx.zip?raw=true" },
-		{ "lin" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/lin.zip?raw=true" },
-		{ "web" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/web.zip?raw=true" }
+		{ "platform" : "win", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/win.zip?raw=true" },
+		{ "platform" : "osx", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/osx.zip?raw=true" },
+		{ "platform" : "lin", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/lin.zip?raw=true" },
+		{ "platform" : "web", "url" : "https://github.com/RugbugRedfern/ParkourMiami/blob/main/web.zip?raw=true" }
 	]
 }
